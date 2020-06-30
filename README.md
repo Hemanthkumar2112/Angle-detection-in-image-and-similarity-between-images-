@@ -1,4 +1,4 @@
-# Angle detection in image 
+# Angle detection and similarity between two image 
 # assignment
   
   
